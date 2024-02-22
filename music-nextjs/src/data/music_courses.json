@@ -1,0 +1,114 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginners course",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano Basics",
+      "slug": "piano-basics",
+      "description": "Master the fundamentals of playing the piano with our step-by-step beginner's guide",
+      "price": 79.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Guitar Advanced Techniques",
+      "slug": "guitar-advanced-techniques",
+      "description": "Take your guitar skills to the next level with advanced techniques and tips from experienced instructors",
+      "price": 129.99,
+      "instructor": "David Brown",
+      "isFeatured": true,
+      "image": "/courses/guitar_advanced.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Drumming Mastery",
+      "slug": "drumming-mastery",
+      "description": "Become a drumming expert with our comprehensive course covering drumming techniques, rhythms, and styles",
+      "price": 89.99,
+      "instructor": "Chris Taylor",
+      "isFeatured": false,
+      "image": "/courses/drumming.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Vocal Warm-Up Techniques",
+      "slug": "vocal-warm-up-techniques",
+      "description": "Improve your singing skills with effective vocal warm-up exercises led by professional vocal coaches",
+      "price": 59.99,
+      "instructor": "Emily Turner",
+      "isFeatured": true,
+      "image": "/courses/vocal.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Jazz Piano Improvisation",
+      "slug": "jazz-piano-improvisation",
+      "description": "Explore the art of jazz piano improvisation with our in-depth course taught by seasoned jazz musicians",
+      "price": 109.99,
+      "instructor": "Michael Davis",
+      "isFeatured": false,
+      "image": "/courses/jazz_piano.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Bass Guitar Fundamentals",
+      "slug": "bass-guitar-fundamentals",
+      "description": "Learn the basics of playing the bass guitar and laying down solid basslines for various music genres",
+      "price": 74.99,
+      "instructor": "Alex Turner",
+      "isFeatured": true,
+      "image": "/courses/bass_guitar.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Songwriting Workshop",
+      "slug": "songwriting-workshop",
+      "description": "Unlock your creativity and learn the art of songwriting with our hands-on workshop led by professional songwriters",
+      "price": 94.99,
+      "instructor": "Sarah Johnson",
+      "isFeatured": false,
+      "image": "/courses/songwriting.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Dive into the world of electronic music production, from beat-making to mixing and mastering",
+      "price": 119.99,
+      "instructor": "Ryan Smith",
+      "isFeatured": true,
+      "image": "/courses/electronic_music.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Classical Violin Techniques",
+      "slug": "classical-violin-techniques",
+      "description": "Master classical violin techniques and repertoire with our detailed course led by experienced violinists",
+      "price": 99.99,
+      "instructor": "Daniel Lee",
+      "isFeatured": true,
+      "image": "/courses/violin.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Harmonica Essentials",
+      "slug": "harmonica-essentials",
+      "description": "Learn to play the harmonica with our essential guide, covering techniques, bending, and popular harmonica songs",
+      "price": 49.99,
+      "instructor": "Charlie Adams",
+      "isFeatured": false,
+      "image": "/courses/harmonica.jpg"
+    }
+  ]
+}
