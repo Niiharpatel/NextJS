@@ -1,6 +1,7 @@
 import CardSection from "@/components/CardSection";
 import ChooseUs from "@/components/ChooseUs";
 import FeaturedSection from "@/components/FeaturedSection";
+import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 import Instructor from "@/components/Instructor";
 import Webinar from "@/components/Webinar";
@@ -14,6 +15,7 @@ export default function Home() {
       <CardSection />
       <Webinar />
       <Instructor />
+      <Footer />
     </main>
   );
 }
